@@ -1,0 +1,41 @@
+{
+    "charts": {
+        "logstash": {
+            "app_readme": "<h1>Logstash</h1>\n",
+            "categories": [
+                "logs"
+            ],
+            "description": "Logstash is an open source data collection engine with real-time pipelining capabilities.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://www.elastic.co",
+            "location": "/home/runner/work/truenas-scale-charts/logstash",
+            "latest_version": "0.0.1",
+            "latest_app_version": "8.7.1",
+            "latest_human_version": "8.7.1_0.0.1",
+            "last_update": "2023-05-21 14:27:00",
+            "name": "logstash",
+            "recommended": false,
+            "title": "Logstash",
+            "maintainers": [
+                {
+                    "name": "vollgas",
+                    "url": "https://www.vollgas.net/",
+                    "email": "dev@vollgas.net"
+                }
+            ],
+            "tags": [
+                "logstash",
+                "log",
+                "utility"
+            ],
+            "screenshots": [],
+            "sources": [
+                "https://www.elastic.co/",
+                "https://github.com/VollgasDev/truenas-scale-charts",
+                "https://www.elastic.co/guide/en/logstash/current/docker-config.html"
+            ],
+            "icon_url": "https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg"
+        }
+    }
+}
